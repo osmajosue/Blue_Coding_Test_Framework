@@ -9,7 +9,7 @@ import org.junit.Test;
 import java.util.concurrent.TimeUnit;
 
 
-public class TestSuit {
+public class TestSuite {
     public WebDriver driver;
 
     @Before
